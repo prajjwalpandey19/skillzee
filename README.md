@@ -4,4 +4,4 @@
   - Subtraction
   - Division
   - Multiplication
-  - Division 
+  
